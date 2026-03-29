@@ -5,11 +5,12 @@ Digital Literacy and Online Awareness Project
 
 Name
 
-Nikhil Kumar Tiwari
+Prateek Kumar Pandey
+25BSA10084
 
 Course
 
-B.Tech Computer Science Engineering ( Artificial Intelligence and Machine learning )
+B.Tech Computer Science Engineering ( cloud computing and automation )
 
 Subject
 
