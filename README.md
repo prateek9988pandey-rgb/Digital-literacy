@@ -1,44 +1,120 @@
-# Digital-literacy# Digital-Literacy-Project
-"Digital Literacy Portfolio – CSE0001 Project | VIT Bhopal University"
+# Digital Literacy Project
+## Project Title
 
-# Digital Literacy Portfolio
-**Name:** Prateek Kumar Pandey
+Digital Literacy and Online Awareness Project
 
-**Reg No.:** 25BSA10084
+Name
 
-**Branch:** B.Tech In Computer Science and Engineering
+Nikhil Kumar Tiwari
 
-**Year:** First Year  
+Course
 
-**Course:** CSE0001 – Digital Literacy  
+B.Tech Computer Science Engineering ( Artificial Intelligence and Machine learning )
 
-**Institution:** VIT Bhopal University
+Subject
 
-## Module Summaries
+Digital Literacy
 
-**Task 1 – Digital Literacy Infographic**
-Created a one-page visual infographic explaining digital literacy concepts.
+Description
 
-**Task 2 – Student Digital Portfolio**
-Set up professional profiles on GitHub, LinkedIn, and other platforms.
+This project is created to demonstrate digital literacy skills such as creating an online portfolio, using GitHub, participating in online platforms, understanding email etiquette, and spreading awareness about cybercrime and online safety. The project includes multiple tasks and a final report.
 
-**Task 3 – Coding & Collaboration Platforms**
-Explored coding platforms and built a Digital Literacy Quiz using Google Forms.
 
-**Task 4 – Email Etiquette**
-Drafted professional emails and created a social media do's and don'ts checklist.
+# Project Structure
 
-**Task 5 – Cybercrime Awareness**
-Researched a cybercrime case study and created a prevention checklist.
+digital-literacy-project/  
+│  
+├── task-1-presentation/  
+│   ├── Screenshot1.png  
+│   ├── Screenshot2.png  
+│   └── Screenshot3.png  
+│  
+├── task-2-portfolio/  
+│   ├── github-profile.png  
+│   ├── kaggle-profile.png  
+│   └── linkedin-profile.png  
+│  
+├── task-3-platforms/  
+│   ├── coding-problem.png  
+│   ├── google-form.png  
+│   └── responses-sheet.png  
+│  
+├── task-4-email-etiquette/  
+│   ├── email1.txt  
+│   ├── email2.txt  
+│   └── social-media-checklist.txt  
+│  
+├── task-5-cybercrime/  
+│   ├── casestudy.txt  
+│   └── prevention-checklist.txt  
+│  
+└── report/  
+    └── Project Report.docx  
 
-## Links
 
-**Task 3 – Google Form Quiz:** https://forms.gle/j5T6ZBvAHrXDMVxj7
 
-## Platforms Used
-- GitHub
-- LinkedIn
-- Canva
-- HackerRank
-- Google Forms
-- Kaggle
+# Task Details
+## Task 1 – Presentation
+
+Created a presentation on digital literacy topics like:
+
+Phishing Awareness
+Password Safety
+Social Media Safety
+
+Screenshots of the presentation are included in the folder.
+
+## Task 2 – Online Portfolio
+
+Created and updated online profiles:
+
+GitHub Profile
+LinkedIn Profile
+Kaggle Profile
+
+Screenshots are included in the folder.
+
+## Task 3 – Online Platforms
+
+Participated in online platforms:
+
+Solved a coding problem
+Created a Google Form
+Collected responses in Google Sheets
+
+Screenshots are included.
+
+## Task 4 – Email Etiquette
+
+Created:
+
+Formal Email
+Leave Email
+Social Media Safety Checklist
+
+Saved as text files.
+
+## Task 5 – Cybercrime Awareness
+
+Created:
+
+Cybercrime Case Study
+Prevention Checklist
+
+Saved as text files.
+
+
+# Tools Used
+
+GitHub
+Google Forms
+Google Sheets
+Microsoft Word
+PowerPoint
+Kaggle
+LinkedIn
+
+
+# Conclusion
+
+This project helped me learn about digital literacy, online safety, email writing, and using online platforms like GitHub, Kaggle, and LinkedIn. I also learned about cybercrime awareness and prevention methods.
